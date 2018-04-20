@@ -1,0 +1,14 @@
+D:\VisualStudio\TP1\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+D:\VisualStudio\TP1\Clases\bin\Debug\Clases.dll
+D:\VisualStudio\TP1\Clases\bin\Debug\Clases.pdb
+D:\VisualStudio\TP1\Clases\obj\Debug\Clases.dll
+D:\VisualStudio\TP1\Clases\obj\Debug\Clases.pdb
+D:\Luca E\TP1\Clases\bin\Debug\Clases.dll
+D:\Luca E\TP1\Clases\bin\Debug\Clases.pdb
+D:\Luca E\TP1\Clases\obj\Debug\Clases.dll
+D:\Luca E\TP1\Clases\obj\Debug\Clases.pdb
+C:\Users\Luca_Provenzano\Desktop\TP1\Clases\bin\Debug\Clases.dll
+C:\Users\Luca_Provenzano\Desktop\TP1\Clases\bin\Debug\Clases.pdb
+C:\Users\Luca_Provenzano\Desktop\TP1\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Luca_Provenzano\Desktop\TP1\Clases\obj\Debug\Clases.dll
+C:\Users\Luca_Provenzano\Desktop\TP1\Clases\obj\Debug\Clases.pdb

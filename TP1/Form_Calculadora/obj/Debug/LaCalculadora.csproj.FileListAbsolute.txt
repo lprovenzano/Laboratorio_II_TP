@@ -1,0 +1,23 @@
+D:\Luca E\TP1\Form_Calculadora\bin\Debug\Form_Calculadora.exe.config
+D:\Luca E\TP1\Form_Calculadora\bin\Debug\Form_Calculadora.exe
+D:\Luca E\TP1\Form_Calculadora\bin\Debug\Form_Calculadora.pdb
+D:\Luca E\TP1\Form_Calculadora\bin\Debug\Clases.dll
+D:\Luca E\TP1\Form_Calculadora\bin\Debug\Clases.pdb
+D:\Luca E\TP1\Form_Calculadora\obj\Debug\LaCalculadora.csprojResolveAssemblyReference.cache
+D:\Luca E\TP1\Form_Calculadora\obj\Debug\Form_Calculadora.Properties.Resources.resources
+D:\Luca E\TP1\Form_Calculadora\obj\Debug\LaCalculadora.csproj.GenerateResource.Cache
+D:\Luca E\TP1\Form_Calculadora\obj\Debug\Form_Calculadora.exe
+D:\Luca E\TP1\Form_Calculadora\obj\Debug\Form_Calculadora.pdb
+D:\Luca E\TP1\Form_Calculadora\obj\Debug\Form_Calculadora.LaCalculadora.resources
+C:\Users\Luca_Provenzano\Desktop\TP1\Form_Calculadora\bin\Debug\Form_Calculadora.exe.config
+C:\Users\Luca_Provenzano\Desktop\TP1\Form_Calculadora\bin\Debug\Form_Calculadora.exe
+C:\Users\Luca_Provenzano\Desktop\TP1\Form_Calculadora\bin\Debug\Form_Calculadora.pdb
+C:\Users\Luca_Provenzano\Desktop\TP1\Form_Calculadora\bin\Debug\Clases.dll
+C:\Users\Luca_Provenzano\Desktop\TP1\Form_Calculadora\bin\Debug\Clases.pdb
+C:\Users\Luca_Provenzano\Desktop\TP1\Form_Calculadora\obj\Debug\LaCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Luca_Provenzano\Desktop\TP1\Form_Calculadora\obj\Debug\Form_Calculadora.LaCalculadora.resources
+C:\Users\Luca_Provenzano\Desktop\TP1\Form_Calculadora\obj\Debug\Form_Calculadora.Properties.Resources.resources
+C:\Users\Luca_Provenzano\Desktop\TP1\Form_Calculadora\obj\Debug\LaCalculadora.csproj.GenerateResource.Cache
+C:\Users\Luca_Provenzano\Desktop\TP1\Form_Calculadora\obj\Debug\LaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Luca_Provenzano\Desktop\TP1\Form_Calculadora\obj\Debug\Form_Calculadora.exe
+C:\Users\Luca_Provenzano\Desktop\TP1\Form_Calculadora\obj\Debug\Form_Calculadora.pdb
