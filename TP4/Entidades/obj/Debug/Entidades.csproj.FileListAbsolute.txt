@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Luca_Provenzano\Desktop\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Luca_Provenzano\Desktop\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Luca_Provenzano\Desktop\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Luca_Provenzano\Desktop\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Luca_Provenzano\Desktop\TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Luca_Provenzano\Desktop\TP4\Entidades\bin\Debug\Entidades.dll.config
