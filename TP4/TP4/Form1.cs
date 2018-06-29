@@ -110,14 +110,8 @@ namespace MainCorreo
 
 		private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
 		{
-			try
-			{
-				this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)c);
-			}
-			catch (Exception ex)
-			{
-				MessageBox.Show(ex.Message);
-			}
+			this.richMostrarTodos.Text = String.Empty;
+			this.richMostrarTodos.Text = listEntregado.SelectedItem.ToString();
 		}
 
 	}
