@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+			this.components = new System.ComponentModel.Container();
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
 			this.groupBox1 = new System.Windows.Forms.GroupBox();
 			this.listEntregado = new System.Windows.Forms.ListBox();
@@ -44,8 +45,11 @@
 			this.label5 = new System.Windows.Forms.Label();
 			this.label4 = new System.Windows.Forms.Label();
 			this.richMostrarTodos = new System.Windows.Forms.RichTextBox();
+			this.contextMenuStrip = new System.Windows.Forms.ContextMenuStrip(this.components);
+			this.mostrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.groupBox1.SuspendLayout();
 			this.groupBox2.SuspendLayout();
+			this.contextMenuStrip.SuspendLayout();
 			this.SuspendLayout();
 			// 
 			// groupBox1
@@ -65,6 +69,7 @@
 			// 
 			// listEntregado
 			// 
+			this.listEntregado.ContextMenuStrip = this.contextMenuStrip;
 			this.listEntregado.FormattingEnabled = true;
 			this.listEntregado.Location = new System.Drawing.Point(646, 49);
 			this.listEntregado.Name = "listEntregado";
@@ -192,6 +197,20 @@
 			this.richMostrarTodos.TabIndex = 2;
 			this.richMostrarTodos.Text = "";
 			// 
+			// contextMenuStrip
+			// 
+			this.contextMenuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mostrarToolStripMenuItem});
+			this.contextMenuStrip.Name = "contextMenuStrip1";
+			this.contextMenuStrip.Size = new System.Drawing.Size(116, 26);
+			this.contextMenuStrip.Click += new System.EventHandler(this.mostrarToolStripMenuItem_Click);
+			// 
+			// mostrarToolStripMenuItem
+			// 
+			this.mostrarToolStripMenuItem.Name = "mostrarToolStripMenuItem";
+			this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(115, 22);
+			this.mostrarToolStripMenuItem.Text = "Mostrar";
+			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -212,6 +231,7 @@
 			this.groupBox1.PerformLayout();
 			this.groupBox2.ResumeLayout(false);
 			this.groupBox2.PerformLayout();
+			this.contextMenuStrip.ResumeLayout(false);
 			this.ResumeLayout(false);
 
         }
@@ -233,6 +253,8 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.RichTextBox richMostrarTodos;
         private System.Windows.Forms.MaskedTextBox txtID;
-    }
+		private System.Windows.Forms.ContextMenuStrip contextMenuStrip;
+		private System.Windows.Forms.ToolStripMenuItem mostrarToolStripMenuItem;
+	}
 }
 

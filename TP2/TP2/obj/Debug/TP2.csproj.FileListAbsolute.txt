@@ -1,0 +1,10 @@
+C:\Users\Luca_Provenzano\Desktop\TP2\TP2\bin\Debug\TP2.exe.config
+C:\Users\Luca_Provenzano\Desktop\TP2\TP2\bin\Debug\TP2.exe
+C:\Users\Luca_Provenzano\Desktop\TP2\TP2\bin\Debug\TP2.pdb
+C:\Users\Luca_Provenzano\Desktop\TP2\TP2\bin\Debug\Entidades.dll
+C:\Users\Luca_Provenzano\Desktop\TP2\TP2\bin\Debug\Entidades.pdb
+C:\Users\Luca_Provenzano\Desktop\TP2\TP2\obj\Debug\TP2.csprojAssemblyReference.cache
+C:\Users\Luca_Provenzano\Desktop\TP2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+C:\Users\Luca_Provenzano\Desktop\TP2\TP2\obj\Debug\TP2.csproj.CopyComplete
+C:\Users\Luca_Provenzano\Desktop\TP2\TP2\obj\Debug\TP2.exe
+C:\Users\Luca_Provenzano\Desktop\TP2\TP2\obj\Debug\TP2.pdb
